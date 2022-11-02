@@ -1,6 +1,3 @@
 [submodule "thirdparty/rapidjson"]
 	path = thirdparty/rapidjson
 	url = https://gitlab.imprognostics.eu/bac/m1-libraries/m1_rapidjson.git
-[submodule "thirdparty/picojson"]
-	path = thirdparty/picojson
-	url = https://github.com/kazuho/picojson.git
