@@ -1,3 +1,0 @@
-[submodule "thirdparty/rapidjson"]
-	path = thirdparty/rapidjson
-	url = https://gitlab.imprognostics.eu/bac/m1-libraries/m1_rapidjson.git

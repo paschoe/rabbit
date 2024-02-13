@@ -2,3 +2,5 @@
 *.json
 bench
 /build
+.vs/
+out/
