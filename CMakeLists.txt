@@ -13,7 +13,7 @@ include(FetchContent)
 FetchContent_Declare(
     rapidjson
     GIT_REPOSITORY http://dehallxdo01/bac/m1-libraries/m1_rapidjson.git
-    GIT_TAG 85663b8a5ed7dd6f828446afdc8433094f5ac98f
+    GIT_TAG 2ea8e9b818ce1f870fd07c2b8a962d9a450f0464
 )
 FetchContent_MakeAvailable(rapidjson)
 
