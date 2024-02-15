@@ -12,8 +12,8 @@ set(HEADER_FILES
 include(FetchContent)
 FetchContent_Declare(
     rapidjson
-    GIT_REPOSITORY https://dehallxdo01.bachmann.at/bac/m1-libraries/m1_rapidjson.git
-    GIT_TAG 2ea8e9b818ce1f870fd07c2b8a962d9a450f0464
+    GIT_REPOSITORY https://github.com/paschoe/rapidjson.git
+    GIT_TAG psh_V1.2
 )
 FetchContent_MakeAvailable(rapidjson)
 
